@@ -1,0 +1,16 @@
+============================================================
+YELLOW STICKY TRAP - PEST COUNT ANALYSIS
+============================================================
+
+Total Pests Detected: 255
+
+Size Classification:
+  - Small pests:  54 (21.2%)
+  - Medium pests: 151 (59.2%)
+  - Large pests:  50 (19.6%)
+
+Size Criteria:
+  - Small: area < 15 pixels²
+  - Medium: area 15-50 pixels²
+  - Large: area > 50 pixels²
+============================================================

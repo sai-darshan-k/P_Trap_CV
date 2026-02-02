@@ -1,0 +1,3039 @@
+{
+  "total_insects": 178,
+  "small_insects": 163,
+  "medium_insects": 15,
+  "large_insects": 0,
+  "size_thresholds": {
+    "min_area": 20,
+    "small_max": 200,
+    "medium_max": 1000
+  },
+  "insect_details": [
+    {
+      "id": 1,
+      "area": 39.0,
+      "position": [
+        71,
+        407
+      ],
+      "bbox": [
+        66,
+        405,
+        12,
+        6
+      ],
+      "perimeter": 28.485281229019165,
+      "aspect_ratio": 2.0,
+      "size_class": "Small"
+    },
+    {
+      "id": 2,
+      "area": 40.5,
+      "position": [
+        63,
+        401
+      ],
+      "bbox": [
+        58,
+        399,
+        12,
+        7
+      ],
+      "perimeter": 28.727921724319458,
+      "aspect_ratio": 1.7142857142857142,
+      "size_class": "Small"
+    },
+    {
+      "id": 3,
+      "area": 46.0,
+      "position": [
+        159,
+        401
+      ],
+      "bbox": [
+        154,
+        398,
+        12,
+        8
+      ],
+      "perimeter": 32.14213538169861,
+      "aspect_ratio": 1.5,
+      "size_class": "Small"
+    },
+    {
+      "id": 4,
+      "area": 116.0,
+      "position": [
+        105,
+        400
+      ],
+      "bbox": [
+        95,
+        394,
+        22,
+        12
+      ],
+      "perimeter": 56.62741661071777,
+      "aspect_ratio": 1.8333333333333333,
+      "size_class": "Small"
+    },
+    {
+      "id": 5,
+      "area": 27.0,
+      "position": [
+        10,
+        397
+      ],
+      "bbox": [
+        7,
+        394,
+        8,
+        7
+      ],
+      "perimeter": 23.656854152679443,
+      "aspect_ratio": 1.1428571428571428,
+      "size_class": "Small"
+    },
+    {
+      "id": 6,
+      "area": 32.5,
+      "position": [
+        72,
+        395
+      ],
+      "bbox": [
+        70,
+        391,
+        5,
+        10
+      ],
+      "perimeter": 24.242640614509583,
+      "aspect_ratio": 2.0,
+      "size_class": "Small"
+    },
+    {
+      "id": 7,
+      "area": 31.0,
+      "position": [
+        63,
+        388
+      ],
+      "bbox": [
+        58,
+        387,
+        11,
+        5
+      ],
+      "perimeter": 24.485281109809875,
+      "aspect_ratio": 2.2,
+      "size_class": "Small"
+    },
+    {
+      "id": 8,
+      "area": 35.5,
+      "position": [
+        28,
+        388
+      ],
+      "bbox": [
+        25,
+        386,
+        9,
+        7
+      ],
+      "perimeter": 25.071067690849304,
+      "aspect_ratio": 1.2857142857142858,
+      "size_class": "Small"
+    },
+    {
+      "id": 9,
+      "area": 214.5,
+      "position": [
+        213,
+        393
+      ],
+      "bbox": [
+        196,
+        385,
+        33,
+        19
+      ],
+      "perimeter": 115.8406195640564,
+      "aspect_ratio": 1.736842105263158,
+      "size_class": "Medium"
+    },
+    {
+      "id": 10,
+      "area": 57.5,
+      "position": [
+        132,
+        390
+      ],
+      "bbox": [
+        128,
+        385,
+        10,
+        11
+      ],
+      "perimeter": 32.72792184352875,
+      "aspect_ratio": 1.1,
+      "size_class": "Small"
+    },
+    {
+      "id": 11,
+      "area": 52.0,
+      "position": [
+        144,
+        388
+      ],
+      "bbox": [
+        141,
+        383,
+        8,
+        12
+      ],
+      "perimeter": 35.31370830535889,
+      "aspect_ratio": 1.5,
+      "size_class": "Small"
+    },
+    {
+      "id": 12,
+      "area": 75.0,
+      "position": [
+        118,
+        390
+      ],
+      "bbox": [
+        114,
+        383,
+        11,
+        15
+      ],
+      "perimeter": 53.79898953437805,
+      "aspect_ratio": 1.3636363636363635,
+      "size_class": "Small"
+    },
+    {
+      "id": 13,
+      "area": 42.0,
+      "position": [
+        179,
+        385
+      ],
+      "bbox": [
+        176,
+        381,
+        8,
+        11
+      ],
+      "perimeter": 29.313708305358887,
+      "aspect_ratio": 1.375,
+      "size_class": "Small"
+    },
+    {
+      "id": 14,
+      "area": 85.5,
+      "position": [
+        43,
+        388
+      ],
+      "bbox": [
+        38,
+        381,
+        12,
+        16
+      ],
+      "perimeter": 49.21320307254791,
+      "aspect_ratio": 1.3333333333333333,
+      "size_class": "Small"
+    },
+    {
+      "id": 15,
+      "area": 44.0,
+      "position": [
+        76,
+        383
+      ],
+      "bbox": [
+        72,
+        380,
+        11,
+        8
+      ],
+      "perimeter": 29.313708305358887,
+      "aspect_ratio": 1.375,
+      "size_class": "Small"
+    },
+    {
+      "id": 16,
+      "area": 23.0,
+      "position": [
+        239,
+        381
+      ],
+      "bbox": [
+        236,
+        378,
+        8,
+        7
+      ],
+      "perimeter": 22.485281229019165,
+      "aspect_ratio": 1.1428571428571428,
+      "size_class": "Small"
+    },
+    {
+      "id": 17,
+      "area": 64.0,
+      "position": [
+        166,
+        384
+      ],
+      "bbox": [
+        162,
+        378,
+        10,
+        13
+      ],
+      "perimeter": 34.97056257724762,
+      "aspect_ratio": 1.3,
+      "size_class": "Small"
+    },
+    {
+      "id": 18,
+      "area": 91.5,
+      "position": [
+        99,
+        380
+      ],
+      "bbox": [
+        91,
+        377,
+        18,
+        10
+      ],
+      "perimeter": 48.3847758769989,
+      "aspect_ratio": 1.8,
+      "size_class": "Small"
+    },
+    {
+      "id": 19,
+      "area": 21.5,
+      "position": [
+        59,
+        377
+      ],
+      "bbox": [
+        57,
+        374,
+        6,
+        8
+      ],
+      "perimeter": 19.899494647979736,
+      "aspect_ratio": 1.3333333333333333,
+      "size_class": "Small"
+    },
+    {
+      "id": 20,
+      "area": 32.5,
+      "position": [
+        16,
+        378
+      ],
+      "bbox": [
+        13,
+        374,
+        7,
+        10
+      ],
+      "perimeter": 25.899494767189026,
+      "aspect_ratio": 1.4285714285714286,
+      "size_class": "Small"
+    },
+    {
+      "id": 21,
+      "area": 46.0,
+      "position": [
+        29,
+        377
+      ],
+      "bbox": [
+        26,
+        373,
+        7,
+        11
+      ],
+      "perimeter": 28.485281229019165,
+      "aspect_ratio": 1.5714285714285714,
+      "size_class": "Small"
+    },
+    {
+      "id": 22,
+      "area": 177.5,
+      "position": [
+        249,
+        385
+      ],
+      "bbox": [
+        240,
+        372,
+        19,
+        29
+      ],
+      "perimeter": 81.35533821582794,
+      "aspect_ratio": 1.5263157894736843,
+      "size_class": "Small"
+    },
+    {
+      "id": 23,
+      "area": 46.5,
+      "position": [
+        213,
+        376
+      ],
+      "bbox": [
+        209,
+        370,
+        10,
+        11
+      ],
+      "perimeter": 32.72792184352875,
+      "aspect_ratio": 1.1,
+      "size_class": "Small"
+    },
+    {
+      "id": 24,
+      "area": 25.5,
+      "position": [
+        188,
+        372
+      ],
+      "bbox": [
+        185,
+        370,
+        7,
+        6
+      ],
+      "perimeter": 20.242640614509583,
+      "aspect_ratio": 1.1666666666666667,
+      "size_class": "Small"
+    },
+    {
+      "id": 25,
+      "area": 23.5,
+      "position": [
+        200,
+        372
+      ],
+      "bbox": [
+        197,
+        368,
+        9,
+        9
+      ],
+      "perimeter": 35.55634891986847,
+      "aspect_ratio": 1.0,
+      "size_class": "Small"
+    },
+    {
+      "id": 26,
+      "area": 87.5,
+      "position": [
+        160,
+        366
+      ],
+      "bbox": [
+        154,
+        361,
+        13,
+        14
+      ],
+      "perimeter": 43.55634880065918,
+      "aspect_ratio": 1.0769230769230769,
+      "size_class": "Small"
+    },
+    {
+      "id": 27,
+      "area": 23.0,
+      "position": [
+        199,
+        362
+      ],
+      "bbox": [
+        195,
+        360,
+        11,
+        5
+      ],
+      "perimeter": 26.485281229019165,
+      "aspect_ratio": 2.2,
+      "size_class": "Small"
+    },
+    {
+      "id": 28,
+      "area": 182.5,
+      "position": [
+        229,
+        368
+      ],
+      "bbox": [
+        219,
+        359,
+        23,
+        21
+      ],
+      "perimeter": 92.5269113779068,
+      "aspect_ratio": 1.0952380952380953,
+      "size_class": "Small"
+    },
+    {
+      "id": 29,
+      "area": 97.5,
+      "position": [
+        87,
+        364
+      ],
+      "bbox": [
+        82,
+        356,
+        10,
+        18
+      ],
+      "perimeter": 52.3847758769989,
+      "aspect_ratio": 1.8,
+      "size_class": "Small"
+    },
+    {
+      "id": 30,
+      "area": 50.5,
+      "position": [
+        153,
+        357
+      ],
+      "bbox": [
+        149,
+        351,
+        8,
+        14
+      ],
+      "perimeter": 36.72792184352875,
+      "aspect_ratio": 1.75,
+      "size_class": "Small"
+    },
+    {
+      "id": 31,
+      "area": 39.0,
+      "position": [
+        75,
+        355
+      ],
+      "bbox": [
+        73,
+        350,
+        6,
+        11
+      ],
+      "perimeter": 26.485281229019165,
+      "aspect_ratio": 1.8333333333333333,
+      "size_class": "Small"
+    },
+    {
+      "id": 32,
+      "area": 35.0,
+      "position": [
+        117,
+        351
+      ],
+      "bbox": [
+        115,
+        347,
+        7,
+        10
+      ],
+      "perimeter": 25.313708305358887,
+      "aspect_ratio": 1.4285714285714286,
+      "size_class": "Small"
+    },
+    {
+      "id": 33,
+      "area": 35.0,
+      "position": [
+        65,
+        347
+      ],
+      "bbox": [
+        62,
+        343,
+        8,
+        9
+      ],
+      "perimeter": 26.485281229019165,
+      "aspect_ratio": 1.125,
+      "size_class": "Small"
+    },
+    {
+      "id": 34,
+      "area": 41.5,
+      "position": [
+        195,
+        344
+      ],
+      "bbox": [
+        191,
+        341,
+        10,
+        7
+      ],
+      "perimeter": 25.899494647979736,
+      "aspect_ratio": 1.4285714285714286,
+      "size_class": "Small"
+    },
+    {
+      "id": 35,
+      "area": 156.5,
+      "position": [
+        138,
+        350
+      ],
+      "bbox": [
+        132,
+        339,
+        15,
+        25
+      ],
+      "perimeter": 74.18376553058624,
+      "aspect_ratio": 1.6666666666666667,
+      "size_class": "Small"
+    },
+    {
+      "id": 36,
+      "area": 157.0,
+      "position": [
+        232,
+        345
+      ],
+      "bbox": [
+        225,
+        338,
+        16,
+        17
+      ],
+      "perimeter": 67.79898953437805,
+      "aspect_ratio": 1.0625,
+      "size_class": "Small"
+    },
+    {
+      "id": 37,
+      "area": 46.5,
+      "position": [
+        82,
+        342
+      ],
+      "bbox": [
+        78,
+        337,
+        9,
+        10
+      ],
+      "perimeter": 29.899494647979736,
+      "aspect_ratio": 1.1111111111111112,
+      "size_class": "Small"
+    },
+    {
+      "id": 38,
+      "area": 127.5,
+      "position": [
+        174,
+        351
+      ],
+      "bbox": [
+        170,
+        336,
+        10,
+        40
+      ],
+      "perimeter": 105.84061932563782,
+      "aspect_ratio": 4.0,
+      "size_class": "Small"
+    },
+    {
+      "id": 39,
+      "area": 84.5,
+      "position": [
+        21,
+        337
+      ],
+      "bbox": [
+        13,
+        330,
+        20,
+        17
+      ],
+      "perimeter": 60.041630148887634,
+      "aspect_ratio": 1.1764705882352942,
+      "size_class": "Small"
+    },
+    {
+      "id": 40,
+      "area": 224.0,
+      "position": [
+        104,
+        343
+      ],
+      "bbox": [
+        94,
+        327,
+        24,
+        35
+      ],
+      "perimeter": 136.9116872549057,
+      "aspect_ratio": 1.4583333333333333,
+      "size_class": "Medium"
+    },
+    {
+      "id": 41,
+      "area": 114.5,
+      "position": [
+        36,
+        338
+      ],
+      "bbox": [
+        28,
+        327,
+        16,
+        22
+      ],
+      "perimeter": 64.87005722522736,
+      "aspect_ratio": 1.375,
+      "size_class": "Small"
+    },
+    {
+      "id": 42,
+      "area": 42.5,
+      "position": [
+        24,
+        325
+      ],
+      "bbox": [
+        19,
+        321,
+        11,
+        9
+      ],
+      "perimeter": 31.899494647979736,
+      "aspect_ratio": 1.2222222222222223,
+      "size_class": "Small"
+    },
+    {
+      "id": 43,
+      "area": 125.5,
+      "position": [
+        205,
+        326
+      ],
+      "bbox": [
+        197,
+        319,
+        20,
+        20
+      ],
+      "perimeter": 80.18376529216766,
+      "aspect_ratio": 1.0,
+      "size_class": "Small"
+    },
+    {
+      "id": 44,
+      "area": 33.0,
+      "position": [
+        134,
+        320
+      ],
+      "bbox": [
+        129,
+        319,
+        12,
+        5
+      ],
+      "perimeter": 26.485281229019165,
+      "aspect_ratio": 2.4,
+      "size_class": "Small"
+    },
+    {
+      "id": 45,
+      "area": 22.0,
+      "position": [
+        245,
+        320
+      ],
+      "bbox": [
+        242,
+        317,
+        8,
+        7
+      ],
+      "perimeter": 24.485281229019165,
+      "aspect_ratio": 1.1428571428571428,
+      "size_class": "Small"
+    },
+    {
+      "id": 46,
+      "area": 78.0,
+      "position": [
+        80,
+        327
+      ],
+      "bbox": [
+        76,
+        317,
+        9,
+        19
+      ],
+      "perimeter": 51.79898953437805,
+      "aspect_ratio": 2.111111111111111,
+      "size_class": "Small"
+    },
+    {
+      "id": 47,
+      "area": 22.0,
+      "position": [
+        226,
+        312
+      ],
+      "bbox": [
+        222,
+        310,
+        11,
+        6
+      ],
+      "perimeter": 27.313708305358887,
+      "aspect_ratio": 1.8333333333333333,
+      "size_class": "Small"
+    },
+    {
+      "id": 48,
+      "area": 75.5,
+      "position": [
+        68,
+        315
+      ],
+      "bbox": [
+        62,
+        310,
+        13,
+        14
+      ],
+      "perimeter": 43.55634880065918,
+      "aspect_ratio": 1.0769230769230769,
+      "size_class": "Small"
+    },
+    {
+      "id": 49,
+      "area": 82.5,
+      "position": [
+        104,
+        315
+      ],
+      "bbox": [
+        100,
+        309,
+        13,
+        15
+      ],
+      "perimeter": 45.55634891986847,
+      "aspect_ratio": 1.1538461538461537,
+      "size_class": "Small"
+    },
+    {
+      "id": 50,
+      "area": 22.0,
+      "position": [
+        35,
+        312
+      ],
+      "bbox": [
+        31,
+        309,
+        11,
+        9
+      ],
+      "perimeter": 30.97056233882904,
+      "aspect_ratio": 1.2222222222222223,
+      "size_class": "Small"
+    },
+    {
+      "id": 51,
+      "area": 84.0,
+      "position": [
+        249,
+        311
+      ],
+      "bbox": [
+        240,
+        308,
+        19,
+        9
+      ],
+      "perimeter": 46.97056233882904,
+      "aspect_ratio": 2.111111111111111,
+      "size_class": "Small"
+    },
+    {
+      "id": 52,
+      "area": 49.5,
+      "position": [
+        147,
+        312
+      ],
+      "bbox": [
+        140,
+        308,
+        16,
+        10
+      ],
+      "perimeter": 40.38477599620819,
+      "aspect_ratio": 1.6,
+      "size_class": "Small"
+    },
+    {
+      "id": 53,
+      "area": 31.5,
+      "position": [
+        88,
+        310
+      ],
+      "bbox": [
+        84,
+        308,
+        10,
+        6
+      ],
+      "perimeter": 23.899494647979736,
+      "aspect_ratio": 1.6666666666666667,
+      "size_class": "Small"
+    },
+    {
+      "id": 54,
+      "area": 84.0,
+      "position": [
+        158,
+        316
+      ],
+      "bbox": [
+        151,
+        306,
+        14,
+        20
+      ],
+      "perimeter": 60.62741661071777,
+      "aspect_ratio": 1.4285714285714286,
+      "size_class": "Small"
+    },
+    {
+      "id": 55,
+      "area": 34.5,
+      "position": [
+        147,
+        304
+      ],
+      "bbox": [
+        143,
+        301,
+        10,
+        7
+      ],
+      "perimeter": 27.071067690849304,
+      "aspect_ratio": 1.4285714285714286,
+      "size_class": "Small"
+    },
+    {
+      "id": 56,
+      "area": 120.5,
+      "position": [
+        212,
+        304
+      ],
+      "bbox": [
+        203,
+        297,
+        23,
+        17
+      ],
+      "perimeter": 70.5269113779068,
+      "aspect_ratio": 1.3529411764705883,
+      "size_class": "Small"
+    },
+    {
+      "id": 57,
+      "area": 66.5,
+      "position": [
+        87,
+        297
+      ],
+      "bbox": [
+        81,
+        293,
+        14,
+        9
+      ],
+      "perimeter": 37.899494767189026,
+      "aspect_ratio": 1.5555555555555556,
+      "size_class": "Small"
+    },
+    {
+      "id": 58,
+      "area": 25.5,
+      "position": [
+        59,
+        295
+      ],
+      "bbox": [
+        54,
+        293,
+        11,
+        6
+      ],
+      "perimeter": 27.071067690849304,
+      "aspect_ratio": 1.8333333333333333,
+      "size_class": "Small"
+    },
+    {
+      "id": 59,
+      "area": 43.5,
+      "position": [
+        198,
+        293
+      ],
+      "bbox": [
+        195,
+        289,
+        9,
+        10
+      ],
+      "perimeter": 27.55634880065918,
+      "aspect_ratio": 1.1111111111111112,
+      "size_class": "Small"
+    },
+    {
+      "id": 60,
+      "area": 76.5,
+      "position": [
+        158,
+        292
+      ],
+      "bbox": [
+        151,
+        285,
+        16,
+        16
+      ],
+      "perimeter": 51.69848418235779,
+      "aspect_ratio": 1.0,
+      "size_class": "Small"
+    },
+    {
+      "id": 61,
+      "area": 30.0,
+      "position": [
+        227,
+        288
+      ],
+      "bbox": [
+        225,
+        284,
+        6,
+        10
+      ],
+      "perimeter": 23.313708305358887,
+      "aspect_ratio": 1.6666666666666667,
+      "size_class": "Small"
+    },
+    {
+      "id": 62,
+      "area": 189.5,
+      "position": [
+        177,
+        299
+      ],
+      "bbox": [
+        170,
+        284,
+        14,
+        35
+      ],
+      "perimeter": 112.66904640197754,
+      "aspect_ratio": 2.5,
+      "size_class": "Small"
+    },
+    {
+      "id": 63,
+      "area": 126.0,
+      "position": [
+        28,
+        292
+      ],
+      "bbox": [
+        19,
+        284,
+        19,
+        16
+      ],
+      "perimeter": 66.62741661071777,
+      "aspect_ratio": 1.1875,
+      "size_class": "Small"
+    },
+    {
+      "id": 64,
+      "area": 164.5,
+      "position": [
+        244,
+        292
+      ],
+      "bbox": [
+        236,
+        281,
+        20,
+        25
+      ],
+      "perimeter": 89.35533845424652,
+      "aspect_ratio": 1.25,
+      "size_class": "Small"
+    },
+    {
+      "id": 65,
+      "area": 58.0,
+      "position": [
+        16,
+        284
+      ],
+      "bbox": [
+        10,
+        280,
+        12,
+        10
+      ],
+      "perimeter": 32.97056245803833,
+      "aspect_ratio": 1.2,
+      "size_class": "Small"
+    },
+    {
+      "id": 66,
+      "area": 52.0,
+      "position": [
+        149,
+        282
+      ],
+      "bbox": [
+        146,
+        278,
+        9,
+        10
+      ],
+      "perimeter": 30.485281229019165,
+      "aspect_ratio": 1.1111111111111112,
+      "size_class": "Small"
+    },
+    {
+      "id": 67,
+      "area": 254.0,
+      "position": [
+        80,
+        280
+      ],
+      "bbox": [
+        62,
+        274,
+        38,
+        15
+      ],
+      "perimeter": 108.42640614509583,
+      "aspect_ratio": 2.533333333333333,
+      "size_class": "Medium"
+    },
+    {
+      "id": 68,
+      "area": 36.0,
+      "position": [
+        162,
+        276
+      ],
+      "bbox": [
+        158,
+        272,
+        11,
+        8
+      ],
+      "perimeter": 34.485281229019165,
+      "aspect_ratio": 1.375,
+      "size_class": "Small"
+    },
+    {
+      "id": 69,
+      "area": 133.0,
+      "position": [
+        49,
+        273
+      ],
+      "bbox": [
+        40,
+        268,
+        20,
+        13
+      ],
+      "perimeter": 59.455843687057495,
+      "aspect_ratio": 1.5384615384615385,
+      "size_class": "Small"
+    },
+    {
+      "id": 70,
+      "area": 22.5,
+      "position": [
+        24,
+        270
+      ],
+      "bbox": [
+        21,
+        266,
+        7,
+        8
+      ],
+      "perimeter": 21.899494767189026,
+      "aspect_ratio": 1.1428571428571428,
+      "size_class": "Small"
+    },
+    {
+      "id": 71,
+      "area": 111.5,
+      "position": [
+        212,
+        275
+      ],
+      "bbox": [
+        206,
+        265,
+        16,
+        21
+      ],
+      "perimeter": 72.18376517295837,
+      "aspect_ratio": 1.3125,
+      "size_class": "Small"
+    },
+    {
+      "id": 72,
+      "area": 85.5,
+      "position": [
+        189,
+        269
+      ],
+      "bbox": [
+        184,
+        264,
+        14,
+        14
+      ],
+      "perimeter": 47.21320307254791,
+      "aspect_ratio": 1.0,
+      "size_class": "Small"
+    },
+    {
+      "id": 73,
+      "area": 22.0,
+      "position": [
+        170,
+        266
+      ],
+      "bbox": [
+        168,
+        262,
+        6,
+        9
+      ],
+      "perimeter": 22.485281109809875,
+      "aspect_ratio": 1.5,
+      "size_class": "Small"
+    },
+    {
+      "id": 74,
+      "area": 28.5,
+      "position": [
+        11,
+        264
+      ],
+      "bbox": [
+        8,
+        261,
+        8,
+        9
+      ],
+      "perimeter": 27.899494647979736,
+      "aspect_ratio": 1.125,
+      "size_class": "Small"
+    },
+    {
+      "id": 75,
+      "area": 112.0,
+      "position": [
+        81,
+        264
+      ],
+      "bbox": [
+        74,
+        257,
+        17,
+        16
+      ],
+      "perimeter": 71.4558436870575,
+      "aspect_ratio": 1.0625,
+      "size_class": "Small"
+    },
+    {
+      "id": 76,
+      "area": 119.5,
+      "position": [
+        232,
+        268
+      ],
+      "bbox": [
+        227,
+        255,
+        11,
+        27
+      ],
+      "perimeter": 75.69848430156708,
+      "aspect_ratio": 2.4545454545454546,
+      "size_class": "Small"
+    },
+    {
+      "id": 77,
+      "area": 156.0,
+      "position": [
+        109,
+        268
+      ],
+      "bbox": [
+        103,
+        253,
+        15,
+        34
+      ],
+      "perimeter": 109.5979790687561,
+      "aspect_ratio": 2.2666666666666666,
+      "size_class": "Small"
+    },
+    {
+      "id": 78,
+      "area": 69.0,
+      "position": [
+        222,
+        253
+      ],
+      "bbox": [
+        215,
+        249,
+        13,
+        12
+      ],
+      "perimeter": 40.14213538169861,
+      "aspect_ratio": 1.0833333333333333,
+      "size_class": "Small"
+    },
+    {
+      "id": 79,
+      "area": 108.5,
+      "position": [
+        131,
+        258
+      ],
+      "bbox": [
+        126,
+        248,
+        12,
+        22
+      ],
+      "perimeter": 60.041630148887634,
+      "aspect_ratio": 1.8333333333333333,
+      "size_class": "Small"
+    },
+    {
+      "id": 80,
+      "area": 45.0,
+      "position": [
+        104,
+        246
+      ],
+      "bbox": [
+        101,
+        242,
+        8,
+        10
+      ],
+      "perimeter": 27.313708186149597,
+      "aspect_ratio": 1.25,
+      "size_class": "Small"
+    },
+    {
+      "id": 81,
+      "area": 72.5,
+      "position": [
+        206,
+        244
+      ],
+      "bbox": [
+        198,
+        240,
+        16,
+        9
+      ],
+      "perimeter": 40.72792172431946,
+      "aspect_ratio": 1.7777777777777777,
+      "size_class": "Small"
+    },
+    {
+      "id": 82,
+      "area": 280.0,
+      "position": [
+        64,
+        252
+      ],
+      "bbox": [
+        44,
+        240,
+        38,
+        24
+      ],
+      "perimeter": 125.74011445045471,
+      "aspect_ratio": 1.5833333333333333,
+      "size_class": "Medium"
+    },
+    {
+      "id": 83,
+      "area": 133.5,
+      "position": [
+        255,
+        247
+      ],
+      "bbox": [
+        249,
+        234,
+        12,
+        28
+      ],
+      "perimeter": 84.52691125869751,
+      "aspect_ratio": 2.3333333333333335,
+      "size_class": "Small"
+    },
+    {
+      "id": 84,
+      "area": 37.0,
+      "position": [
+        224,
+        235
+      ],
+      "bbox": [
+        219,
+        232,
+        10,
+        7
+      ],
+      "perimeter": 25.313708066940308,
+      "aspect_ratio": 1.4285714285714286,
+      "size_class": "Small"
+    },
+    {
+      "id": 85,
+      "area": 76.0,
+      "position": [
+        244,
+        232
+      ],
+      "bbox": [
+        237,
+        227,
+        13,
+        14
+      ],
+      "perimeter": 41.79898941516876,
+      "aspect_ratio": 1.0769230769230769,
+      "size_class": "Small"
+    },
+    {
+      "id": 86,
+      "area": 90.0,
+      "position": [
+        58,
+        233
+      ],
+      "bbox": [
+        52,
+        225,
+        15,
+        18
+      ],
+      "perimeter": 56.28427052497864,
+      "aspect_ratio": 1.2,
+      "size_class": "Small"
+    },
+    {
+      "id": 87,
+      "area": 243.0,
+      "position": [
+        184,
+        244
+      ],
+      "bbox": [
+        170,
+        224,
+        28,
+        38
+      ],
+      "perimeter": 194.85281217098236,
+      "aspect_ratio": 1.3571428571428572,
+      "size_class": "Medium"
+    },
+    {
+      "id": 88,
+      "area": 23.0,
+      "position": [
+        146,
+        222
+      ],
+      "bbox": [
+        143,
+        220,
+        7,
+        6
+      ],
+      "perimeter": 18.485281229019165,
+      "aspect_ratio": 1.1666666666666667,
+      "size_class": "Small"
+    },
+    {
+      "id": 89,
+      "area": 85.5,
+      "position": [
+        36,
+        228
+      ],
+      "bbox": [
+        32,
+        220,
+        11,
+        18
+      ],
+      "perimeter": 52.041629910469055,
+      "aspect_ratio": 1.6363636363636365,
+      "size_class": "Small"
+    },
+    {
+      "id": 90,
+      "area": 67.0,
+      "position": [
+        85,
+        220
+      ],
+      "bbox": [
+        77,
+        217,
+        16,
+        9
+      ],
+      "perimeter": 51.79898941516876,
+      "aspect_ratio": 1.7777777777777777,
+      "size_class": "Small"
+    },
+    {
+      "id": 91,
+      "area": 90.0,
+      "position": [
+        158,
+        218
+      ],
+      "bbox": [
+        154,
+        213,
+        13,
+        14
+      ],
+      "perimeter": 45.79898953437805,
+      "aspect_ratio": 1.0769230769230769,
+      "size_class": "Small"
+    },
+    {
+      "id": 92,
+      "area": 387.5,
+      "position": [
+        161,
+        236
+      ],
+      "bbox": [
+        138,
+        212,
+        45,
+        39
+      ],
+      "perimeter": 226.7523069381714,
+      "aspect_ratio": 1.1538461538461537,
+      "size_class": "Medium"
+    },
+    {
+      "id": 93,
+      "area": 218.0,
+      "position": [
+        209,
+        219
+      ],
+      "bbox": [
+        197,
+        209,
+        28,
+        23
+      ],
+      "perimeter": 110.42640614509583,
+      "aspect_ratio": 1.2173913043478262,
+      "size_class": "Medium"
+    },
+    {
+      "id": 94,
+      "area": 161.5,
+      "position": [
+        15,
+        217
+      ],
+      "bbox": [
+        6,
+        207,
+        20,
+        23
+      ],
+      "perimeter": 92.52691125869751,
+      "aspect_ratio": 1.15,
+      "size_class": "Small"
+    },
+    {
+      "id": 95,
+      "area": 49.5,
+      "position": [
+        69,
+        210
+      ],
+      "bbox": [
+        65,
+        205,
+        9,
+        11
+      ],
+      "perimeter": 32.72792184352875,
+      "aspect_ratio": 1.2222222222222223,
+      "size_class": "Small"
+    },
+    {
+      "id": 96,
+      "area": 93.5,
+      "position": [
+        88,
+        203
+      ],
+      "bbox": [
+        80,
+        195,
+        17,
+        17
+      ],
+      "perimeter": 54.041630029678345,
+      "aspect_ratio": 1.0,
+      "size_class": "Small"
+    },
+    {
+      "id": 97,
+      "area": 220.5,
+      "position": [
+        49,
+        206
+      ],
+      "bbox": [
+        38,
+        195,
+        24,
+        23
+      ],
+      "perimeter": 104.66904664039612,
+      "aspect_ratio": 1.0434782608695652,
+      "size_class": "Medium"
+    },
+    {
+      "id": 98,
+      "area": 281.0,
+      "position": [
+        123,
+        211
+      ],
+      "bbox": [
+        115,
+        192,
+        18,
+        43
+      ],
+      "perimeter": 143.39696860313416,
+      "aspect_ratio": 2.388888888888889,
+      "size_class": "Medium"
+    },
+    {
+      "id": 99,
+      "area": 105.0,
+      "position": [
+        231,
+        197
+      ],
+      "bbox": [
+        226,
+        190,
+        14,
+        16
+      ],
+      "perimeter": 63.455843687057495,
+      "aspect_ratio": 1.1428571428571428,
+      "size_class": "Small"
+    },
+    {
+      "id": 100,
+      "area": 99.0,
+      "position": [
+        185,
+        199
+      ],
+      "bbox": [
+        178,
+        189,
+        13,
+        20
+      ],
+      "perimeter": 63.94112503528595,
+      "aspect_ratio": 1.5384615384615385,
+      "size_class": "Small"
+    },
+    {
+      "id": 101,
+      "area": 102.5,
+      "position": [
+        252,
+        196
+      ],
+      "bbox": [
+        243,
+        188,
+        19,
+        15
+      ],
+      "perimeter": 56.38477599620819,
+      "aspect_ratio": 1.2666666666666666,
+      "size_class": "Small"
+    },
+    {
+      "id": 102,
+      "area": 48.0,
+      "position": [
+        216,
+        191
+      ],
+      "bbox": [
+        211,
+        188,
+        11,
+        9
+      ],
+      "perimeter": 32.14213538169861,
+      "aspect_ratio": 1.2222222222222223,
+      "size_class": "Small"
+    },
+    {
+      "id": 103,
+      "area": 48.5,
+      "position": [
+        79,
+        192
+      ],
+      "bbox": [
+        76,
+        188,
+        8,
+        10
+      ],
+      "perimeter": 29.071067690849304,
+      "aspect_ratio": 1.25,
+      "size_class": "Small"
+    },
+    {
+      "id": 104,
+      "area": 191.5,
+      "position": [
+        163,
+        195
+      ],
+      "bbox": [
+        149,
+        186,
+        26,
+        23
+      ],
+      "perimeter": 93.35533833503723,
+      "aspect_ratio": 1.1304347826086956,
+      "size_class": "Small"
+    },
+    {
+      "id": 105,
+      "area": 45.5,
+      "position": [
+        92,
+        187
+      ],
+      "bbox": [
+        87,
+        182,
+        12,
+        9
+      ],
+      "perimeter": 36.24264061450958,
+      "aspect_ratio": 1.3333333333333333,
+      "size_class": "Small"
+    },
+    {
+      "id": 106,
+      "area": 127.0,
+      "position": [
+        27,
+        187
+      ],
+      "bbox": [
+        18,
+        179,
+        20,
+        18
+      ],
+      "perimeter": 79.5979790687561,
+      "aspect_ratio": 1.1111111111111112,
+      "size_class": "Small"
+    },
+    {
+      "id": 107,
+      "area": 41.5,
+      "position": [
+        243,
+        181
+      ],
+      "bbox": [
+        238,
+        177,
+        12,
+        10
+      ],
+      "perimeter": 41.55634880065918,
+      "aspect_ratio": 1.2,
+      "size_class": "Small"
+    },
+    {
+      "id": 108,
+      "area": 36.0,
+      "position": [
+        179,
+        179
+      ],
+      "bbox": [
+        175,
+        177,
+        11,
+        6
+      ],
+      "perimeter": 26.485281229019165,
+      "aspect_ratio": 1.8333333333333333,
+      "size_class": "Small"
+    },
+    {
+      "id": 109,
+      "area": 170.0,
+      "position": [
+        196,
+        187
+      ],
+      "bbox": [
+        188,
+        173,
+        21,
+        30
+      ],
+      "perimeter": 87.5979790687561,
+      "aspect_ratio": 1.4285714285714286,
+      "size_class": "Small"
+    },
+    {
+      "id": 110,
+      "area": 21.5,
+      "position": [
+        73,
+        174
+      ],
+      "bbox": [
+        71,
+        171,
+        5,
+        8
+      ],
+      "perimeter": 20.242640614509583,
+      "aspect_ratio": 1.6,
+      "size_class": "Small"
+    },
+    {
+      "id": 111,
+      "area": 58.0,
+      "position": [
+        255,
+        176
+      ],
+      "bbox": [
+        249,
+        168,
+        13,
+        17
+      ],
+      "perimeter": 54.28427064418793,
+      "aspect_ratio": 1.3076923076923077,
+      "size_class": "Small"
+    },
+    {
+      "id": 112,
+      "area": 98.5,
+      "position": [
+        127,
+        174
+      ],
+      "bbox": [
+        121,
+        164,
+        15,
+        19
+      ],
+      "perimeter": 62.87005698680878,
+      "aspect_ratio": 1.2666666666666666,
+      "size_class": "Small"
+    },
+    {
+      "id": 113,
+      "area": 52.5,
+      "position": [
+        113,
+        169
+      ],
+      "bbox": [
+        110,
+        164,
+        8,
+        12
+      ],
+      "perimeter": 31.899494767189026,
+      "aspect_ratio": 1.5,
+      "size_class": "Small"
+    },
+    {
+      "id": 114,
+      "area": 36.5,
+      "position": [
+        35,
+        168
+      ],
+      "bbox": [
+        32,
+        164,
+        8,
+        9
+      ],
+      "perimeter": 25.899494767189026,
+      "aspect_ratio": 1.125,
+      "size_class": "Small"
+    },
+    {
+      "id": 115,
+      "area": 61.5,
+      "position": [
+        202,
+        166
+      ],
+      "bbox": [
+        198,
+        161,
+        9,
+        11
+      ],
+      "perimeter": 33.071067690849304,
+      "aspect_ratio": 1.2222222222222223,
+      "size_class": "Small"
+    },
+    {
+      "id": 116,
+      "area": 116.0,
+      "position": [
+        244,
+        164
+      ],
+      "bbox": [
+        236,
+        157,
+        19,
+        18
+      ],
+      "perimeter": 71.11269772052765,
+      "aspect_ratio": 1.0555555555555556,
+      "size_class": "Small"
+    },
+    {
+      "id": 117,
+      "area": 20.5,
+      "position": [
+        154,
+        159
+      ],
+      "bbox": [
+        152,
+        157,
+        8,
+        7
+      ],
+      "perimeter": 23.071067690849304,
+      "aspect_ratio": 1.1428571428571428,
+      "size_class": "Small"
+    },
+    {
+      "id": 118,
+      "area": 59.0,
+      "position": [
+        15,
+        161
+      ],
+      "bbox": [
+        6,
+        156,
+        21,
+        10
+      ],
+      "perimeter": 57.455843687057495,
+      "aspect_ratio": 2.1,
+      "size_class": "Small"
+    },
+    {
+      "id": 119,
+      "area": 81.5,
+      "position": [
+        137,
+        150
+      ],
+      "bbox": [
+        130,
+        145,
+        14,
+        14
+      ],
+      "perimeter": 44.38477599620819,
+      "aspect_ratio": 1.0,
+      "size_class": "Small"
+    },
+    {
+      "id": 120,
+      "area": 92.5,
+      "position": [
+        57,
+        153
+      ],
+      "bbox": [
+        52,
+        145,
+        13,
+        17
+      ],
+      "perimeter": 58.041630148887634,
+      "aspect_ratio": 1.3076923076923077,
+      "size_class": "Small"
+    },
+    {
+      "id": 121,
+      "area": 143.5,
+      "position": [
+        185,
+        151
+      ],
+      "bbox": [
+        180,
+        139,
+        13,
+        24
+      ],
+      "perimeter": 63.69848430156708,
+      "aspect_ratio": 1.8461538461538463,
+      "size_class": "Small"
+    },
+    {
+      "id": 122,
+      "area": 42.0,
+      "position": [
+        179,
+        136
+      ],
+      "bbox": [
+        175,
+        133,
+        11,
+        7
+      ],
+      "perimeter": 28.485281229019165,
+      "aspect_ratio": 1.5714285714285714,
+      "size_class": "Small"
+    },
+    {
+      "id": 123,
+      "area": 102.0,
+      "position": [
+        25,
+        141
+      ],
+      "bbox": [
+        21,
+        132,
+        12,
+        22
+      ],
+      "perimeter": 62.62741661071777,
+      "aspect_ratio": 1.8333333333333333,
+      "size_class": "Small"
+    },
+    {
+      "id": 124,
+      "area": 191.5,
+      "position": [
+        162,
+        140
+      ],
+      "bbox": [
+        155,
+        130,
+        18,
+        21
+      ],
+      "perimeter": 92.18376541137695,
+      "aspect_ratio": 1.1666666666666667,
+      "size_class": "Small"
+    },
+    {
+      "id": 125,
+      "area": 200.5,
+      "position": [
+        204,
+        136
+      ],
+      "bbox": [
+        196,
+        128,
+        21,
+        18
+      ],
+      "perimeter": 78.87005710601807,
+      "aspect_ratio": 1.1666666666666667,
+      "size_class": "Medium"
+    },
+    {
+      "id": 126,
+      "area": 64.5,
+      "position": [
+        121,
+        131
+      ],
+      "bbox": [
+        116,
+        125,
+        11,
+        14
+      ],
+      "perimeter": 39.55634891986847,
+      "aspect_ratio": 1.2727272727272727,
+      "size_class": "Small"
+    },
+    {
+      "id": 127,
+      "area": 152.5,
+      "position": [
+        46,
+        132
+      ],
+      "bbox": [
+        38,
+        121,
+        17,
+        25
+      ],
+      "perimeter": 87.01219260692596,
+      "aspect_ratio": 1.4705882352941178,
+      "size_class": "Small"
+    },
+    {
+      "id": 128,
+      "area": 165.5,
+      "position": [
+        145,
+        125
+      ],
+      "bbox": [
+        138,
+        117,
+        19,
+        20
+      ],
+      "perimeter": 69.69848430156708,
+      "aspect_ratio": 1.0526315789473684,
+      "size_class": "Small"
+    },
+    {
+      "id": 129,
+      "area": 663.0,
+      "position": [
+        97,
+        145
+      ],
+      "bbox": [
+        72,
+        117,
+        49,
+        54
+      ],
+      "perimeter": 296.45079123973846,
+      "aspect_ratio": 1.1020408163265305,
+      "size_class": "Medium"
+    },
+    {
+      "id": 130,
+      "area": 211.0,
+      "position": [
+        235,
+        129
+      ],
+      "bbox": [
+        224,
+        115,
+        23,
+        28
+      ],
+      "perimeter": 117.25483322143555,
+      "aspect_ratio": 1.2173913043478262,
+      "size_class": "Medium"
+    },
+    {
+      "id": 131,
+      "area": 26.5,
+      "position": [
+        29,
+        117
+      ],
+      "bbox": [
+        27,
+        115,
+        7,
+        7
+      ],
+      "perimeter": 19.899494767189026,
+      "aspect_ratio": 1.0,
+      "size_class": "Small"
+    },
+    {
+      "id": 132,
+      "area": 91.5,
+      "position": [
+        14,
+        120
+      ],
+      "bbox": [
+        6,
+        115,
+        17,
+        12
+      ],
+      "perimeter": 55.21320307254791,
+      "aspect_ratio": 1.4166666666666667,
+      "size_class": "Small"
+    },
+    {
+      "id": 133,
+      "area": 44.0,
+      "position": [
+        104,
+        118
+      ],
+      "bbox": [
+        100,
+        114,
+        10,
+        10
+      ],
+      "perimeter": 31.313708305358887,
+      "aspect_ratio": 1.0,
+      "size_class": "Small"
+    },
+    {
+      "id": 134,
+      "area": 43.0,
+      "position": [
+        193,
+        116
+      ],
+      "bbox": [
+        190,
+        111,
+        8,
+        12
+      ],
+      "perimeter": 32.97056221961975,
+      "aspect_ratio": 1.5,
+      "size_class": "Small"
+    },
+    {
+      "id": 135,
+      "area": 137.5,
+      "position": [
+        83,
+        118
+      ],
+      "bbox": [
+        74,
+        111,
+        19,
+        18
+      ],
+      "perimeter": 87.35533845424652,
+      "aspect_ratio": 1.0555555555555556,
+      "size_class": "Small"
+    },
+    {
+      "id": 136,
+      "area": 50.0,
+      "position": [
+        66,
+        113
+      ],
+      "bbox": [
+        63,
+        109,
+        10,
+        10
+      ],
+      "perimeter": 34.14213538169861,
+      "aspect_ratio": 1.0,
+      "size_class": "Small"
+    },
+    {
+      "id": 137,
+      "area": 65.5,
+      "position": [
+        205,
+        113
+      ],
+      "bbox": [
+        202,
+        108,
+        10,
+        12
+      ],
+      "perimeter": 38.72792184352875,
+      "aspect_ratio": 1.2,
+      "size_class": "Small"
+    },
+    {
+      "id": 138,
+      "area": 24.0,
+      "position": [
+        253,
+        106
+      ],
+      "bbox": [
+        248,
+        104,
+        10,
+        6
+      ],
+      "perimeter": 28.485281229019165,
+      "aspect_ratio": 1.6666666666666667,
+      "size_class": "Small"
+    },
+    {
+      "id": 139,
+      "area": 23.0,
+      "position": [
+        175,
+        106
+      ],
+      "bbox": [
+        171,
+        103,
+        11,
+        7
+      ],
+      "perimeter": 30.485281229019165,
+      "aspect_ratio": 1.5714285714285714,
+      "size_class": "Small"
+    },
+    {
+      "id": 140,
+      "area": 58.0,
+      "position": [
+        44,
+        108
+      ],
+      "bbox": [
+        40,
+        103,
+        11,
+        11
+      ],
+      "perimeter": 32.97056245803833,
+      "aspect_ratio": 1.0,
+      "size_class": "Small"
+    },
+    {
+      "id": 141,
+      "area": 37.0,
+      "position": [
+        33,
+        103
+      ],
+      "bbox": [
+        30,
+        98,
+        7,
+        11
+      ],
+      "perimeter": 29.656854152679443,
+      "aspect_ratio": 1.5714285714285714,
+      "size_class": "Small"
+    },
+    {
+      "id": 142,
+      "area": 30.0,
+      "position": [
+        247,
+        96
+      ],
+      "bbox": [
+        243,
+        93,
+        9,
+        8
+      ],
+      "perimeter": 28.14213526248932,
+      "aspect_ratio": 1.125,
+      "size_class": "Small"
+    },
+    {
+      "id": 143,
+      "area": 44.0,
+      "position": [
+        208,
+        96
+      ],
+      "bbox": [
+        203,
+        93,
+        11,
+        8
+      ],
+      "perimeter": 32.485281229019165,
+      "aspect_ratio": 1.375,
+      "size_class": "Small"
+    },
+    {
+      "id": 144,
+      "area": 25.5,
+      "position": [
+        149,
+        95
+      ],
+      "bbox": [
+        144,
+        93,
+        12,
+        6
+      ],
+      "perimeter": 27.899494647979736,
+      "aspect_ratio": 2.0,
+      "size_class": "Small"
+    },
+    {
+      "id": 145,
+      "area": 60.5,
+      "position": [
+        56,
+        95
+      ],
+      "bbox": [
+        51,
+        91,
+        12,
+        10
+      ],
+      "perimeter": 34.72792172431946,
+      "aspect_ratio": 1.2,
+      "size_class": "Small"
+    },
+    {
+      "id": 146,
+      "area": 26.5,
+      "position": [
+        9,
+        93
+      ],
+      "bbox": [
+        8,
+        90,
+        5,
+        9
+      ],
+      "perimeter": 21.071067690849304,
+      "aspect_ratio": 1.8,
+      "size_class": "Small"
+    },
+    {
+      "id": 147,
+      "area": 69.0,
+      "position": [
+        19,
+        90
+      ],
+      "bbox": [
+        16,
+        84,
+        10,
+        14
+      ],
+      "perimeter": 42.14213526248932,
+      "aspect_ratio": 1.4,
+      "size_class": "Small"
+    },
+    {
+      "id": 148,
+      "area": 52.0,
+      "position": [
+        231,
+        89
+      ],
+      "bbox": [
+        226,
+        83,
+        12,
+        11
+      ],
+      "perimeter": 42.14213538169861,
+      "aspect_ratio": 1.0909090909090908,
+      "size_class": "Small"
+    },
+    {
+      "id": 149,
+      "area": 102.0,
+      "position": [
+        178,
+        87
+      ],
+      "bbox": [
+        172,
+        80,
+        16,
+        16
+      ],
+      "perimeter": 67.4558436870575,
+      "aspect_ratio": 1.0,
+      "size_class": "Small"
+    },
+    {
+      "id": 150,
+      "area": 46.5,
+      "position": [
+        162,
+        81
+      ],
+      "bbox": [
+        157,
+        78,
+        11,
+        8
+      ],
+      "perimeter": 29.899494647979736,
+      "aspect_ratio": 1.375,
+      "size_class": "Small"
+    },
+    {
+      "id": 151,
+      "area": 100.0,
+      "position": [
+        121,
+        87
+      ],
+      "bbox": [
+        116,
+        77,
+        11,
+        20
+      ],
+      "perimeter": 60.28427076339722,
+      "aspect_ratio": 1.8181818181818181,
+      "size_class": "Small"
+    },
+    {
+      "id": 152,
+      "area": 60.0,
+      "position": [
+        220,
+        78
+      ],
+      "bbox": [
+        211,
+        74,
+        19,
+        9
+      ],
+      "perimeter": 46.97056245803833,
+      "aspect_ratio": 2.111111111111111,
+      "size_class": "Small"
+    },
+    {
+      "id": 153,
+      "area": 159.0,
+      "position": [
+        98,
+        83
+      ],
+      "bbox": [
+        86,
+        74,
+        24,
+        23
+      ],
+      "perimeter": 107.25483322143555,
+      "aspect_ratio": 1.0434782608695652,
+      "size_class": "Small"
+    },
+    {
+      "id": 154,
+      "area": 44.0,
+      "position": [
+        238,
+        74
+      ],
+      "bbox": [
+        234,
+        70,
+        9,
+        10
+      ],
+      "perimeter": 29.313708305358887,
+      "aspect_ratio": 1.1111111111111112,
+      "size_class": "Small"
+    },
+    {
+      "id": 155,
+      "area": 29.0,
+      "position": [
+        49,
+        73
+      ],
+      "bbox": [
+        46,
+        70,
+        8,
+        7
+      ],
+      "perimeter": 22.485281229019165,
+      "aspect_ratio": 1.1428571428571428,
+      "size_class": "Small"
+    },
+    {
+      "id": 156,
+      "area": 31.5,
+      "position": [
+        174,
+        71
+      ],
+      "bbox": [
+        171,
+        67,
+        7,
+        9
+      ],
+      "perimeter": 23.899494767189026,
+      "aspect_ratio": 1.2857142857142858,
+      "size_class": "Small"
+    },
+    {
+      "id": 157,
+      "area": 26.0,
+      "position": [
+        36,
+        70
+      ],
+      "bbox": [
+        34,
+        67,
+        6,
+        7
+      ],
+      "perimeter": 19.656854152679443,
+      "aspect_ratio": 1.1666666666666667,
+      "size_class": "Small"
+    },
+    {
+      "id": 158,
+      "area": 40.5,
+      "position": [
+        220,
+        68
+      ],
+      "bbox": [
+        216,
+        66,
+        11,
+        6
+      ],
+      "perimeter": 28.242640614509583,
+      "aspect_ratio": 1.8333333333333333,
+      "size_class": "Small"
+    },
+    {
+      "id": 159,
+      "area": 32.5,
+      "position": [
+        165,
+        69
+      ],
+      "bbox": [
+        162,
+        66,
+        9,
+        8
+      ],
+      "perimeter": 25.899494767189026,
+      "aspect_ratio": 1.125,
+      "size_class": "Small"
+    },
+    {
+      "id": 160,
+      "area": 224.5,
+      "position": [
+        128,
+        73
+      ],
+      "bbox": [
+        110,
+        61,
+        34,
+        30
+      ],
+      "perimeter": 139.15432798862457,
+      "aspect_ratio": 1.1333333333333333,
+      "size_class": "Medium"
+    },
+    {
+      "id": 161,
+      "area": 212.0,
+      "position": [
+        81,
+        71
+      ],
+      "bbox": [
+        68,
+        61,
+        28,
+        21
+      ],
+      "perimeter": 116.08326017856598,
+      "aspect_ratio": 1.3333333333333333,
+      "size_class": "Medium"
+    },
+    {
+      "id": 162,
+      "area": 75.5,
+      "position": [
+        44,
+        60
+      ],
+      "bbox": [
+        37,
+        56,
+        18,
+        10
+      ],
+      "perimeter": 48.041630029678345,
+      "aspect_ratio": 1.8,
+      "size_class": "Small"
+    },
+    {
+      "id": 163,
+      "area": 34.0,
+      "position": [
+        208,
+        57
+      ],
+      "bbox": [
+        205,
+        54,
+        8,
+        7
+      ],
+      "perimeter": 22.485281229019165,
+      "aspect_ratio": 1.1428571428571428,
+      "size_class": "Small"
+    },
+    {
+      "id": 164,
+      "area": 35.0,
+      "position": [
+        30,
+        58
+      ],
+      "bbox": [
+        26,
+        54,
+        11,
+        8
+      ],
+      "perimeter": 29.313708186149597,
+      "aspect_ratio": 1.375,
+      "size_class": "Small"
+    },
+    {
+      "id": 165,
+      "area": 44.5,
+      "position": [
+        171,
+        54
+      ],
+      "bbox": [
+        168,
+        49,
+        8,
+        12
+      ],
+      "perimeter": 30.727921843528748,
+      "aspect_ratio": 1.5,
+      "size_class": "Small"
+    },
+    {
+      "id": 166,
+      "area": 26.0,
+      "position": [
+        194,
+        51
+      ],
+      "bbox": [
+        192,
+        48,
+        8,
+        8
+      ],
+      "perimeter": 25.313708305358887,
+      "aspect_ratio": 1.0,
+      "size_class": "Small"
+    },
+    {
+      "id": 167,
+      "area": 72.0,
+      "position": [
+        138,
+        54
+      ],
+      "bbox": [
+        133,
+        48,
+        13,
+        12
+      ],
+      "perimeter": 41.31370830535889,
+      "aspect_ratio": 1.0833333333333333,
+      "size_class": "Small"
+    },
+    {
+      "id": 168,
+      "area": 24.5,
+      "position": [
+        183,
+        49
+      ],
+      "bbox": [
+        180,
+        47,
+        8,
+        6
+      ],
+      "perimeter": 21.071067690849304,
+      "aspect_ratio": 1.3333333333333333,
+      "size_class": "Small"
+    },
+    {
+      "id": 169,
+      "area": 96.5,
+      "position": [
+        235,
+        53
+      ],
+      "bbox": [
+        229,
+        45,
+        15,
+        18
+      ],
+      "perimeter": 54.870057106018066,
+      "aspect_ratio": 1.2,
+      "size_class": "Small"
+    },
+    {
+      "id": 170,
+      "area": 81.0,
+      "position": [
+        153,
+        50
+      ],
+      "bbox": [
+        148,
+        44,
+        14,
+        13
+      ],
+      "perimeter": 50.97056245803833,
+      "aspect_ratio": 1.0769230769230769,
+      "size_class": "Small"
+    },
+    {
+      "id": 171,
+      "area": 48.5,
+      "position": [
+        66,
+        49
+      ],
+      "bbox": [
+        63,
+        44,
+        8,
+        11
+      ],
+      "perimeter": 28.727921724319458,
+      "aspect_ratio": 1.375,
+      "size_class": "Small"
+    },
+    {
+      "id": 172,
+      "area": 31.5,
+      "position": [
+        167,
+        44
+      ],
+      "bbox": [
+        163,
+        42,
+        9,
+        6
+      ],
+      "perimeter": 24.242640614509583,
+      "aspect_ratio": 1.5,
+      "size_class": "Small"
+    },
+    {
+      "id": 173,
+      "area": 53.5,
+      "position": [
+        89,
+        43
+      ],
+      "bbox": [
+        86,
+        38,
+        9,
+        12
+      ],
+      "perimeter": 32.72792184352875,
+      "aspect_ratio": 1.3333333333333333,
+      "size_class": "Small"
+    },
+    {
+      "id": 174,
+      "area": 87.5,
+      "position": [
+        78,
+        44
+      ],
+      "bbox": [
+        72,
+        38,
+        13,
+        15
+      ],
+      "perimeter": 52.041630148887634,
+      "aspect_ratio": 1.1538461538461537,
+      "size_class": "Small"
+    },
+    {
+      "id": 175,
+      "area": 91.0,
+      "position": [
+        34,
+        41
+      ],
+      "bbox": [
+        29,
+        35,
+        14,
+        16
+      ],
+      "perimeter": 48.97056245803833,
+      "aspect_ratio": 1.1428571428571428,
+      "size_class": "Small"
+    },
+    {
+      "id": 176,
+      "area": 40.0,
+      "position": [
+        16,
+        36
+      ],
+      "bbox": [
+        13,
+        33,
+        10,
+        8
+      ],
+      "perimeter": 26.14213538169861,
+      "aspect_ratio": 1.25,
+      "size_class": "Small"
+    },
+    {
+      "id": 177,
+      "area": 200.5,
+      "position": [
+        138,
+        31
+      ],
+      "bbox": [
+        109,
+        28,
+        60,
+        10
+      ],
+      "perimeter": 138.04162991046906,
+      "aspect_ratio": 6.0,
+      "size_class": "Medium"
+    },
+    {
+      "id": 178,
+      "area": 39.0,
+      "position": [
+        31,
+        27
+      ],
+      "bbox": [
+        28,
+        23,
+        9,
+        9
+      ],
+      "perimeter": 26.14213526248932,
+      "aspect_ratio": 1.0,
+      "size_class": "Small"
+    }
+  ]
+}
